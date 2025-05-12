@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+btop-theme.py
+/usr/bin/btop "$@"
