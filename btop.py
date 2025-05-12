@@ -64,7 +64,7 @@ def main():
     update_config()
 
     # Launch btop
-    subprocess.run(["/usr/bin/btop"] + sys.argv[1:], check=False)
+    # subprocess.run(["/usr/bin/btop"] + sys.argv[1:], check=False)
 
 
 if __name__ == "__main__":
